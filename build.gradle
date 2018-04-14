@@ -41,6 +41,6 @@ task copyCname(type: Copy) {
 }
 
 task publish(type: GradleBuild) {
-    tasks = ['jbake','copyCname','gitPublishPush']
+    tasks = ['bake','copyCname','gitPublishPush']
 }
 
