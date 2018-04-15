@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Montserrat:400,700');
+
 /* Sticky footer styles
 -------------------------------------------------- */
 
@@ -50,3 +52,22 @@ body {
 /*code {
   font-size: 80%;
 }*/
+
+h2, h3, h4, h5, h6 {
+  color: #5543A5;
+}
+
+a, a:hover {
+  color: #f7a128;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.navbar-default .navbar-brand {
+  color: #5543A5;
+  font-size: 2em;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
