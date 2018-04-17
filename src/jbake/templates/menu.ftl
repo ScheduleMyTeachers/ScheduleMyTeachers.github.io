@@ -8,7 +8,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="https://schedulemyteachers.com"><img src="images/logo_pencil_only.png" width="25px" alt="Schedule My Teachers - a school schedule maker for K-8"> Schedule My Teachers</a>
+          <a class="navbar-brand" href="https://schedulemyteachers.com"><img src="/images/logo_pencil_only.png" width="25px" alt="Schedule My Teachers - a school schedule maker for K-8"> Schedule My Teachers</a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
