@@ -15,6 +15,6 @@ When you make your school schedule by hand, it’s tempting to stop searching fo
 
 === Because it’s Easy to Use
 
-Our school schedule maker is intuitive and designed with the user in mind. The scheduler consists of six easy steps, each with helpful descriptions and hints right on the page. We also put a tutorial tab in the scheduler itself. This means that our step-by-step tutorial videos (hyperlink to YouTube) are just a click away if you need them. Each one clearly demonstrates exactly how to complete each step.
+Our school schedule maker is intuitive and designed with the user in mind. The scheduler consists of six easy steps, each with helpful descriptions and hints right on the page. We also put a tutorial tab in the scheduler itself. This means that our link:https://www.youtube.com/channel/UChZSVxOje6swSYQn7d1dqWg/videos[step-by-step tutorial videos] are just a click away if you need them. Each one clearly demonstrates exactly how to complete each step.
 
 So what are you waiting for? Simultaneously make the best school schedule with ease and save time today!
